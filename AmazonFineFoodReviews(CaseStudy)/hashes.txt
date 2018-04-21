@@ -1,0 +1,7 @@
+Current git commit:
+18824c4d0fea769ebb0301182d550130e4a08560
+
+Current input/ouput md5 hashes:
+MD5 (output/Reviews.csv) = c3c950ae0be8b0736477c89d052d33fd
+MD5 (output/database.sqlite) = a50334684f230502a9ce984cb749514f
+MD5 (input/Reviews.txt) = 20b122f0d990184a445b84b73aeee074
